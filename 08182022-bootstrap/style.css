@@ -1,0 +1,27 @@
+header{
+    height: auto;
+}
+
+main{   
+    height: auto;
+}
+
+aside{
+    height: auto;
+    background-color: #047cfc;
+}
+
+footer{
+    background-color: #047cfc;
+    height: 115px;
+}
+
+.carousel-custom{
+    background-color: #047cfc;
+}
+
+.carousel-image-custom{
+    width: 400px;
+    height: 270px;
+    margin-left: 270px;
+}
